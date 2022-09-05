@@ -2,6 +2,7 @@
 
 My solution to: https://github.com/GilesStrong/mode_diffprog_22_challenge
 Final score: private IOU = 0.824
+See included PDF for details.
 
 ## Notebooks
 
