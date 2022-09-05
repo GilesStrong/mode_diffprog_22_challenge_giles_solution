@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7050685.svg)](https://doi.org/10.5281/zenodo.7050685)
+
 # MODE '22 workshop data challenge - Giles Solution
 
 My solution to: https://github.com/GilesStrong/mode_diffprog_22_challenge
