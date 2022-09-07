@@ -29,7 +29,7 @@ For GPU usage, I'd recommend installing PyTorch yourself, based on driver versio
 
 The solutions rely on the [LUMIN](https://lumin.readthedocs.io/en/stable/) front-end to PyTorch.
 Due to various bug-fixes and changes, these solutions require the current bleeding-edge version.
-For now (close to 2022/0905), install from source with:
+For now (close to 2022/09/05), install from source with:
 
 ```bash
 git clone git@github.com:GilesStrong/lumin.git
